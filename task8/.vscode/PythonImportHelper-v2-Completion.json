@@ -1,0 +1,673 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "libcst",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "libcst",
+        "description": "libcst",
+        "detail": "libcst",
+        "documentation": {}
+    },
+    {
+        "label": "pathlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "apache_beam",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "apache_beam",
+        "description": "apache_beam",
+        "detail": "apache_beam",
+        "documentation": {}
+    },
+    {
+        "label": "PipelineOptions",
+        "importPath": "apache_beam.options.pipeline_options",
+        "description": "apache_beam.options.pipeline_options",
+        "isExtraImport": true,
+        "detail": "apache_beam.options.pipeline_options",
+        "documentation": {}
+    },
+    {
+        "label": "StandardOptions",
+        "importPath": "apache_beam.options.pipeline_options",
+        "description": "apache_beam.options.pipeline_options",
+        "isExtraImport": true,
+        "detail": "apache_beam.options.pipeline_options",
+        "documentation": {}
+    },
+    {
+        "label": "SetupOptions",
+        "importPath": "apache_beam.options.pipeline_options",
+        "description": "apache_beam.options.pipeline_options",
+        "isExtraImport": true,
+        "detail": "apache_beam.options.pipeline_options",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"task8\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"task8\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"task8\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"task8\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"task8\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "bigquery_storageCallTransformer",
+        "kind": 6,
+        "importPath": ".venv.Scripts.fixup_bigquery_storage_v1_keywords",
+        "description": ".venv.Scripts.fixup_bigquery_storage_v1_keywords",
+        "peekOfCode": "class bigquery_storageCallTransformer(cst.CSTTransformer):\n    CTRL_PARAMS: Tuple[str] = ('retry', 'timeout', 'metadata')\n    METHOD_TO_PARAMS: Dict[str, Tuple[str]] = {\n        'append_rows': ('write_stream', 'offset', 'proto_rows', 'arrow_rows', 'trace_id', 'missing_value_interpretations', 'default_missing_value_interpretation', ),\n        'batch_commit_write_streams': ('parent', 'write_streams', ),\n        'create_read_session': ('parent', 'read_session', 'max_stream_count', 'preferred_min_stream_count', ),\n        'create_write_stream': ('parent', 'write_stream', ),\n        'finalize_write_stream': ('name', ),\n        'flush_rows': ('write_stream', 'offset', ),\n        'get_write_stream': ('name', 'view', ),",
+        "detail": ".venv.Scripts.fixup_bigquery_storage_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "partition",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_bigquery_storage_v1_keywords",
+        "description": ".venv.Scripts.fixup_bigquery_storage_v1_keywords",
+        "peekOfCode": "def partition(\n    predicate: Callable[[Any], bool],\n    iterator: Sequence[Any]\n) -> Tuple[List[Any], List[Any]]:\n    \"\"\"A stable, out-of-place partition.\"\"\"\n    results = ([], [])\n    for i in iterator:\n        results[int(predicate(i))].append(i)\n    # Returns trueList, falseList\n    return results[1], results[0]",
+        "detail": ".venv.Scripts.fixup_bigquery_storage_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "fix_files",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_bigquery_storage_v1_keywords",
+        "description": ".venv.Scripts.fixup_bigquery_storage_v1_keywords",
+        "peekOfCode": "def fix_files(\n    in_dir: pathlib.Path,\n    out_dir: pathlib.Path,\n    *,\n    transformer=bigquery_storageCallTransformer(),\n):\n    \"\"\"Duplicate the input dir to the output dir, fixing file method calls.\n    Preconditions:\n    * in_dir is a real directory\n    * out_dir is a real, empty directory",
+        "detail": ".venv.Scripts.fixup_bigquery_storage_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "bigtable_adminCallTransformer",
+        "kind": 6,
+        "importPath": ".venv.Scripts.fixup_bigtable_admin_v2_keywords",
+        "description": ".venv.Scripts.fixup_bigtable_admin_v2_keywords",
+        "peekOfCode": "class bigtable_adminCallTransformer(cst.CSTTransformer):\n    CTRL_PARAMS: Tuple[str] = ('retry', 'timeout', 'metadata')\n    METHOD_TO_PARAMS: Dict[str, Tuple[str]] = {\n        'check_consistency': ('name', 'consistency_token', 'standard_read_remote_writes', 'data_boost_read_local_writes', ),\n        'copy_backup': ('parent', 'backup_id', 'source_backup', 'expire_time', ),\n        'create_app_profile': ('parent', 'app_profile_id', 'app_profile', 'ignore_warnings', ),\n        'create_authorized_view': ('parent', 'authorized_view_id', 'authorized_view', ),\n        'create_backup': ('parent', 'backup_id', 'backup', ),\n        'create_cluster': ('parent', 'cluster_id', 'cluster', ),\n        'create_instance': ('parent', 'instance_id', 'instance', 'clusters', ),",
+        "detail": ".venv.Scripts.fixup_bigtable_admin_v2_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "partition",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_bigtable_admin_v2_keywords",
+        "description": ".venv.Scripts.fixup_bigtable_admin_v2_keywords",
+        "peekOfCode": "def partition(\n    predicate: Callable[[Any], bool],\n    iterator: Sequence[Any]\n) -> Tuple[List[Any], List[Any]]:\n    \"\"\"A stable, out-of-place partition.\"\"\"\n    results = ([], [])\n    for i in iterator:\n        results[int(predicate(i))].append(i)\n    # Returns trueList, falseList\n    return results[1], results[0]",
+        "detail": ".venv.Scripts.fixup_bigtable_admin_v2_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "fix_files",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_bigtable_admin_v2_keywords",
+        "description": ".venv.Scripts.fixup_bigtable_admin_v2_keywords",
+        "peekOfCode": "def fix_files(\n    in_dir: pathlib.Path,\n    out_dir: pathlib.Path,\n    *,\n    transformer=bigtable_adminCallTransformer(),\n):\n    \"\"\"Duplicate the input dir to the output dir, fixing file method calls.\n    Preconditions:\n    * in_dir is a real directory\n    * out_dir is a real, empty directory",
+        "detail": ".venv.Scripts.fixup_bigtable_admin_v2_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "bigtableCallTransformer",
+        "kind": 6,
+        "importPath": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "description": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "peekOfCode": "class bigtableCallTransformer(cst.CSTTransformer):\n    CTRL_PARAMS: Tuple[str] = ('retry', 'timeout', 'metadata')\n    METHOD_TO_PARAMS: Dict[str, Tuple[str]] = {\n        'check_and_mutate_row': ('row_key', 'table_name', 'authorized_view_name', 'app_profile_id', 'predicate_filter', 'true_mutations', 'false_mutations', ),\n        'execute_query': ('instance_name', 'query', 'params', 'app_profile_id', 'prepared_query', 'proto_format', 'resume_token', ),\n        'generate_initial_change_stream_partitions': ('table_name', 'app_profile_id', ),\n        'mutate_row': ('row_key', 'mutations', 'table_name', 'authorized_view_name', 'app_profile_id', ),\n        'mutate_rows': ('entries', 'table_name', 'authorized_view_name', 'app_profile_id', ),\n        'ping_and_warm': ('name', 'app_profile_id', ),\n        'prepare_query': ('instance_name', 'query', 'param_types', 'app_profile_id', 'proto_format', ),",
+        "detail": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "partition",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "description": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "peekOfCode": "def partition(\n    predicate: Callable[[Any], bool],\n    iterator: Sequence[Any]\n) -> Tuple[List[Any], List[Any]]:\n    \"\"\"A stable, out-of-place partition.\"\"\"\n    results = ([], [])\n    for i in iterator:\n        results[int(predicate(i))].append(i)\n    # Returns trueList, falseList\n    return results[1], results[0]",
+        "detail": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "fix_files",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "description": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "peekOfCode": "def fix_files(\n    in_dir: pathlib.Path,\n    out_dir: pathlib.Path,\n    *,\n    transformer=bigtableCallTransformer(),\n):\n    \"\"\"Duplicate the input dir to the output dir, fixing file method calls.\n    Preconditions:\n    * in_dir is a real directory\n    * out_dir is a real, empty directory",
+        "detail": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "datastore_adminCallTransformer",
+        "kind": 6,
+        "importPath": ".venv.Scripts.fixup_datastore_admin_v1_keywords",
+        "description": ".venv.Scripts.fixup_datastore_admin_v1_keywords",
+        "peekOfCode": "class datastore_adminCallTransformer(cst.CSTTransformer):\n    CTRL_PARAMS: Tuple[str] = ('retry', 'timeout', 'metadata')\n    METHOD_TO_PARAMS: Dict[str, Tuple[str]] = {\n        'create_index': ('project_id', 'index', ),\n        'delete_index': ('project_id', 'index_id', ),\n        'export_entities': ('project_id', 'output_url_prefix', 'labels', 'entity_filter', ),\n        'get_index': ('project_id', 'index_id', ),\n        'import_entities': ('project_id', 'input_url', 'labels', 'entity_filter', ),\n        'list_indexes': ('project_id', 'filter', 'page_size', 'page_token', ),\n    }",
+        "detail": ".venv.Scripts.fixup_datastore_admin_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "partition",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_datastore_admin_v1_keywords",
+        "description": ".venv.Scripts.fixup_datastore_admin_v1_keywords",
+        "peekOfCode": "def partition(\n    predicate: Callable[[Any], bool],\n    iterator: Sequence[Any]\n) -> Tuple[List[Any], List[Any]]:\n    \"\"\"A stable, out-of-place partition.\"\"\"\n    results = ([], [])\n    for i in iterator:\n        results[int(predicate(i))].append(i)\n    # Returns trueList, falseList\n    return results[1], results[0]",
+        "detail": ".venv.Scripts.fixup_datastore_admin_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "fix_files",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_datastore_admin_v1_keywords",
+        "description": ".venv.Scripts.fixup_datastore_admin_v1_keywords",
+        "peekOfCode": "def fix_files(\n    in_dir: pathlib.Path,\n    out_dir: pathlib.Path,\n    *,\n    transformer=datastore_adminCallTransformer(),\n):\n    \"\"\"Duplicate the input dir to the output dir, fixing file method calls.\n    Preconditions:\n    * in_dir is a real directory\n    * out_dir is a real, empty directory",
+        "detail": ".venv.Scripts.fixup_datastore_admin_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "datastoreCallTransformer",
+        "kind": 6,
+        "importPath": ".venv.Scripts.fixup_datastore_v1_keywords",
+        "description": ".venv.Scripts.fixup_datastore_v1_keywords",
+        "peekOfCode": "class datastoreCallTransformer(cst.CSTTransformer):\n    CTRL_PARAMS: Tuple[str] = ('retry', 'timeout', 'metadata')\n    METHOD_TO_PARAMS: Dict[str, Tuple[str]] = {\n        'allocate_ids': ('project_id', 'keys', 'database_id', ),\n        'begin_transaction': ('project_id', 'database_id', 'transaction_options', ),\n        'commit': ('project_id', 'database_id', 'mode', 'transaction', 'single_use_transaction', 'mutations', ),\n        'lookup': ('project_id', 'keys', 'database_id', 'read_options', 'property_mask', ),\n        'reserve_ids': ('project_id', 'keys', 'database_id', ),\n        'rollback': ('project_id', 'transaction', 'database_id', ),\n        'run_aggregation_query': ('project_id', 'database_id', 'partition_id', 'read_options', 'aggregation_query', 'gql_query', 'explain_options', ),",
+        "detail": ".venv.Scripts.fixup_datastore_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "partition",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_datastore_v1_keywords",
+        "description": ".venv.Scripts.fixup_datastore_v1_keywords",
+        "peekOfCode": "def partition(\n    predicate: Callable[[Any], bool],\n    iterator: Sequence[Any]\n) -> Tuple[List[Any], List[Any]]:\n    \"\"\"A stable, out-of-place partition.\"\"\"\n    results = ([], [])\n    for i in iterator:\n        results[int(predicate(i))].append(i)\n    # Returns trueList, falseList\n    return results[1], results[0]",
+        "detail": ".venv.Scripts.fixup_datastore_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "fix_files",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_datastore_v1_keywords",
+        "description": ".venv.Scripts.fixup_datastore_v1_keywords",
+        "peekOfCode": "def fix_files(\n    in_dir: pathlib.Path,\n    out_dir: pathlib.Path,\n    *,\n    transformer=datastoreCallTransformer(),\n):\n    \"\"\"Duplicate the input dir to the output dir, fixing file method calls.\n    Preconditions:\n    * in_dir is a real directory\n    * out_dir is a real, empty directory",
+        "detail": ".venv.Scripts.fixup_datastore_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "pubsubCallTransformer",
+        "kind": 6,
+        "importPath": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "description": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "peekOfCode": "class pubsubCallTransformer(cst.CSTTransformer):\n    CTRL_PARAMS: Tuple[str] = ('retry', 'timeout', 'metadata')\n    METHOD_TO_PARAMS: Dict[str, Tuple[str]] = {\n        'acknowledge': ('subscription', 'ack_ids', ),\n        'commit_schema': ('name', 'schema', ),\n        'create_schema': ('parent', 'schema', 'schema_id', ),\n        'create_snapshot': ('name', 'subscription', 'labels', ),\n        'create_subscription': ('name', 'topic', 'push_config', 'bigquery_config', 'cloud_storage_config', 'ack_deadline_seconds', 'retain_acked_messages', 'message_retention_duration', 'labels', 'enable_message_ordering', 'expiration_policy', 'filter', 'dead_letter_policy', 'retry_policy', 'detached', 'enable_exactly_once_delivery', 'topic_message_retention_duration', 'state', 'analytics_hub_subscription_info', 'message_transforms', ),\n        'create_topic': ('name', 'labels', 'message_storage_policy', 'kms_key_name', 'schema_settings', 'satisfies_pzs', 'message_retention_duration', 'state', 'ingestion_data_source_settings', 'message_transforms', ),\n        'delete_schema': ('name', ),",
+        "detail": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "partition",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "description": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "peekOfCode": "def partition(\n    predicate: Callable[[Any], bool],\n    iterator: Sequence[Any]\n) -> Tuple[List[Any], List[Any]]:\n    \"\"\"A stable, out-of-place partition.\"\"\"\n    results = ([], [])\n    for i in iterator:\n        results[int(predicate(i))].append(i)\n    # Returns trueList, falseList\n    return results[1], results[0]",
+        "detail": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "fix_files",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "description": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "peekOfCode": "def fix_files(\n    in_dir: pathlib.Path,\n    out_dir: pathlib.Path,\n    *,\n    transformer=pubsubCallTransformer(),\n):\n    \"\"\"Duplicate the input dir to the output dir, fixing file method calls.\n    Preconditions:\n    * in_dir is a real directory\n    * out_dir is a real, empty directory",
+        "detail": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "PubsubmessageToJson",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class PubsubmessageToJson(beam.DoFn):\n    def process(self, element):\n        try:\n            message = json.loads(element.decode('utf-8'))\n            # Handle single JSON object\n            if isinstance(message, dict):\n                yield self.format_record(message)\n            # Handle list of JSON objects\n            elif isinstance(message, list):\n                for item in message:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def run():\n    PROJECT_ID = 'newproject-464419'\n    SUBSCRIPTION = 'projects/newproject-464419/subscriptions/tax-scraper-test-sub'\n    STAGING_TABLE = 'newproject-464419.tax_data.tax_records_staging'\n    BUCKET ='task-8-bucket'\n    options = PipelineOptions(\n        project=PROJECT_ID,\n        runner='DataflowRunner',\n        temp_location= f'gs://{BUCKET}/temp',\n        streaming=True,",
+        "detail": "main",
+        "documentation": {}
+    }
+]
